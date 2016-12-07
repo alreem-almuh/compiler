@@ -6,5 +6,13 @@
 [A-Z]+ { printf("bbb\n");}
 [a-z] { printf("Aa\n"); return 0;}
 . { printf("ff\n");}
+[a-z] { printf("Aa\n"); return 0;}
+. { printf("ff\n");}
+[a-z] { printf("Aa\n"); return 0;}
+. { printf("ff\n");}
 
 %%
+b = 
+a = 
+c =  f(p2)
+p3 = p2 - 
